@@ -7,23 +7,40 @@
 
 We are always welcoming new members, please contact me (Sarah Dalrymple)[s.e.dalrymple@ljmu.ac.uk] if you'd like to be added to our contact list.
 
-Thomas	Abeli	,	University of Roma Tre	,	UK
+Thomas	Abeli	,	University of Roma Tre	,	Italy
+
 Sally	Aitken	,	UBC Dept. of Forestry	,	Canada
+
 Andrew	Almas	,	University of Toronto Dept. of Geography	,	Canada
+
 Aitor	Ameztegui	,	 Universite du Quebec a Montreal	,	Canada
+
 Connie	Barlow	,	Torryea Guardians	,	USA
+
 Sarah	Barrett	,	Dept. of Environment and Conservation, Western Australia	,	Australia
+
 Tannis	Beardmore	,	Natural Resources Canada	,	Canada
+
 Timothy	Bell	,	Chicago State University	,	USA
+
 Joe	Bellis	,	Liverpool John Moores University	,	UK
+
 L.	Boisvert-Marsh	,	Natural Resources Canada	,	Canada
+
 David	Boshier	,	University of Oxford	,	UK
+
 David	Bourke	,	Liverpool John Moores University	,	UK
+
 Marlin	Bowles	,	Morton Arboretum	,	USA
+
 Barb	Boysen 	,	Forest Gene Conservation Association	,	Canada
+
 Alan	Brown	,	Clyde Muirshiel Regional Park	,	UK
+
 Anne	Cochrane	,		,	Australia
+
 Donatella	Cogoni	,	Università degli Studi di Cagliari	,	Italy
+
 Bruno	Colas	,		,	France
 Steve	Colombo	,	Ontario Forest Research Institute	,	Canada
 Lucy	Commander	,	ANPC Translocation Guidelines	,	Australia
