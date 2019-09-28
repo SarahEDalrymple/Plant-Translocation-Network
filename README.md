@@ -6,10 +6,12 @@
 # Membership
 
 We are always welcoming new members, please contact me ([Sarah Dalrymple](s.e.dalrymple@ljmu.ac.uk)) if you'd like to be added to our contact list.
+Search by surname:
 
-[A](#a) B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+[A](#A) B C D E F G H I J K L M N O P Q R S T U V W X Y [Z](#Z)
 
-A
+# A
+
 Thomas	Abeli	,	University of Roma Tre	,	Italy
 
 Sally	Aitken	,	UBC Dept. of Forestry	,	Canada
@@ -136,3 +138,4 @@ Debojyoti	Chakraborty	,	Department of Forest Growth and Silviculture Austrian Re
 Silvio	Schueler	,	Department of Forest Growth and Silviculture Austrian Research Centre for Forests (BFW)	,	
 Ary	Hoffmann	,	University of Melbourne	,	
 Rebecca	Jordan	,	CSIRO	,	
+# Z
