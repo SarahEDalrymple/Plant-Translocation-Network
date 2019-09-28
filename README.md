@@ -4,7 +4,7 @@
  3. Exploring the potential for review papers, special issues and practice-relevant publications to develop science and practice in using plant translocations to address global biodiversity loss.
  
 ## Questions for improving plant translocation practice
-The Plant Translocation Network was initiated in January 2018, and has worked to develop 42 key research questions about plant translocations and climate change.  These are organized into four research themes forming the basis of the four objectives below.
+The Plant Translocation Network was initiated in January 2018 by Sarah Dalrymple and Richard Winder, and has worked to develop 42 key research questions about plant translocations and climate change.  These are organized into four research themes forming the basis of the four objectives below.
 ### Objective 1: Use plant translocations as bioassays of climate change
 Exposure to climate change will affect organisms as and when climatic thresholds for survival and reproduction are exceeded.  This objective seeks field evidence for this by using plant translocations to resolve uncertainties in plant niche theory, particularly with respect to thermal niche.  For example, what can translocations tell us about niche conservatism? How do niches alter for different ecotypes and/or zones within the species range and with different life stages of a plant species?  Do plants adapt to new conditions post-translocation? What are the climatic thresholds for maladaptation?
 ### Objective 2: Revealing recent climate change and monitoring future changes
