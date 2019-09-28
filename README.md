@@ -23,7 +23,7 @@ Search by surname:
 <a href="#a" title="A">A</a> <a href="#b" title="B">B</a> <a href="#c" title="C">C</a> <a href="#d" title="D">D</a> <a href="#e" title="E">E</a> <a href="#f" title="F">F</a> <a href="#g" title="G">G</a> <a href="#h" title="H">H</a> <a href="#i" title="I">I</a> <a href="#j" title="J">J</a> <a href="#k" title="K">K</a> <a href="#l" title="K">K</a> <a href="#l" title="M">M</a> <a href="#n" title="N">N</a>
 [O](#O) [P](#P) Q R [S](#S) [T](#T) U V [W](#W) [X](#X) Y [Z](#Z)
 
-# A                                               <a href="#membership" title="Membership">back to top</a>
+# A
 Thomas	Abeli	,	University of Roma Tre	,	Italy
 
 Sally	Aitken	,	UBC Dept. of Forestry	,	Canada
@@ -33,6 +33,8 @@ Resit	Akçakaya	,	Stony Brook University	,	USA
 Andrew	Almas	,	University of Toronto Dept. of Geography	,	Canada
 
 Aitor	Ameztegui	,	 Universite du Quebec a Montreal	,	Canada
+
+<a href="#membership" title="Membership">back to top</a>
 
 # B
 Connie	Barlow	,	Torryea Guardians	,	USA
@@ -60,6 +62,8 @@ Barb	Boysen 	,	Forest Gene Conservation Association	,	Canada
 Hannah	Branwood	,	Liverpool John Moores University	,	UK
 
 Alan	Brown	,	Clyde Muirshiel Regional Park	,	UK
+
+<a href="#membership" title="Membership">back to top</a>
 
 # C
 Debojyoti	Chakraborty	,	Department of Forest Growth and Silviculture Austrian Research Centre for Forests (BFW)	,	Austria
