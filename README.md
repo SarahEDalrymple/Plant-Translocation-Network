@@ -36,7 +36,7 @@ Aitor	Ameztegui	,	 Universite du Quebec a Montreal	,	Canada
 <a href="#membership" title="Membership">back to top</a>
 
 # B
-Connie	Barlow	,	Torryea Guardians	,	USA
+Connie	Barlow	,	Torreya Guardians	,	USA
 
 Sarah	Barrett	,	Dept. of Environment and Conservation, Western Australia	,	Australia
 
