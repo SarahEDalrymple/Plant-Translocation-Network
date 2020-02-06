@@ -235,6 +235,8 @@ Brian	Palik	,	USDA Forest Service Northern Research Station	,	USA
 
 Andrew	Park	,	University of Winnipeg	,	Canada
 
+Max Paschall, Climate Adaptation Specialist, TreePhilly, USA
+
 John	Pedlar	,	Natural Resources Canada	,	Canada
 
 Kevin	Potter	,	NCSU Dept. of Forestry & Env. Res.	,	USA
