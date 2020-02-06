@@ -264,9 +264,11 @@ John	Stanturf	,	USDA Forest Service Southern Research Station	,	USA
 
 Emily	Strange	,	University of Leiden, Netherlands
 
-Peter	Stroh	,	Botanical Society of Briatin and Ireland	,	UK
+Peter	Stroh	,	Botanical Society of Britain and Ireland	,	UK
 
 Joshua	Styles	,	North West Rare Plants Initiative	,	UK
+
+Jens-Christian Svenning, Center for Biodiversity Dynamics in a Changing World (BIOCHANGE), Aarhus University, Denmark
 
 Chris	Swanston	,	US Forest Service	,	USA
 
