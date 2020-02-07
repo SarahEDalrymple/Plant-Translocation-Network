@@ -262,7 +262,7 @@ Patrick	Shirey	,	University of Pittsburgh	,	USA
 
 Zach	St. George	,	USA
 
-John	Stanturf	,	USDA Forest Service Southern Research Station	,	USA
+John	Stanturf	,	Estonian University of Life Sciences, Estonia; InNovaSilva ApS, Denmark
 
 Emily	Strange	,	University of Leiden, Netherlands
 
