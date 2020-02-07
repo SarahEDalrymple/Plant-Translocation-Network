@@ -140,7 +140,7 @@ Richard	Hewitt	,	Chester Zoo	,	UK
 
 Ary	Hoffmann	,	University of Melbourne	,	Australia
 
-Sebastian (Avi)	Holzapfel	,	Dept. of Conservation, Research & Development Hamilton	,	New Zealand
+Sebastian (Avi) Holzapfel , Department of Conservation, New Zealand
 
 Chad	Husby	,	Montgomery Botanical Center, Miami	,	USA
 
