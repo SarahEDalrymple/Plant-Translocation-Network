@@ -29,7 +29,7 @@ Sally	Aitken	,	UBC Dept. of Forestry	,	Canada
 
 Resit	Akçakaya	,	Stony Brook University	,	USA
 
-Andrew	Almas	,	University of Toronto Dept. of Geography	,	Canada
+Andrew Almas, University of British Columbia	,	Canada
 
 Aitor	Ameztegui	,	 Universite du Quebec a Montreal	,	Canada
 
