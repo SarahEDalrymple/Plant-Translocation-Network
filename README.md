@@ -31,7 +31,7 @@ Resit	Akçakaya	,	Stony Brook University	,	USA
 
 Andrew Almas, University of British Columbia	,	Canada
 
-Aitor	Ameztegui	,	 Universite du Quebec a Montreal	,	Canada
+Aitor	Ameztegui	,	 University of Lleida, Spain
 
 <a href="#membership" title="Membership">back to top</a>
 
