@@ -38,7 +38,7 @@ Aitor	Ameztegui	,	 University of Lleida, Spain
 # B
 Connie	Barlow	,	Torreya Guardians	,	USA
 
-Sarah	Barrett	,	Dept. of Environment and Conservation, Western Australia	,	Australia
+Sarah	Barrett	,	Dept of Biodiversity Conservation and Attractions Western Australia	,	Australia
 
 Tannis	Beardmore	,	Natural Resources Canada	,	Canada
 
