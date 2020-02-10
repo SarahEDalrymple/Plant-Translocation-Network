@@ -200,7 +200,7 @@ Palle	Madsen	,	University of Copenhagen	,	Denmark
 
 Janet	Marinelli	,	USA
 
-Isabelle	Marques	,	Universidad de Zaragoza	,	Spain
+Isabelle	Marques	,	University of Lisbon, Portugal
 
 Tara	Martin	,	University of South Queensland, University of British Columbia	,	Australia
 
