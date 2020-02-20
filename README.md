@@ -173,7 +173,7 @@ Manfred	Jusaitis	,	Botanic Gardens of Adelaide	,	Australia
 # K
 Kapua	Kawelo	,	Oahu Army Natural Resource Program	,	USA
 
-Christopher	Kettle	,	Biodiversity International & ETH Zurich	,	Switzerland
+Christopher	Kettle	,	Alliance of Bioversity International and CIAT, Rome  & ETH Zurich, Switzerland
 
 Jodie	Krakowski	,	Alberta Sustainable Resource Development, Tree Improvement & Seed Centre	,	Canada
 
