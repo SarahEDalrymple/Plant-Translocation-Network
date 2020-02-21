@@ -3,7 +3,7 @@
  2. Developing a meeting proposal: *Plant translocation and climate change: bioassay, surveillance and solution to a global threat?*;
  3. Exploring the potential for review papers, special issues and practice-relevant publications to develop science and practice in using plant translocations to address global biodiversity loss.
 
-# Stop press! Journal of Ecology will be publishing a Special Feature in 2020, brief proposal [here](Journal of Ecology Special Feature 2020 proposal.pdf)
+### Stop press! Journal of Ecology will be publishing a Special Feature in 2020, brief proposal [here](Journal of Ecology Special Feature 2020 proposal.pdf)
  
 ## Questions for improving plant translocation practice
 The Plant Translocation Network was initiated in January 2018 by Sarah Dalrymple and Richard Winder, and has worked to develop 42 key research questions about plant translocations and climate change.  These are organized into four research themes forming the basis of the four objectives below.
