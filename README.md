@@ -219,7 +219,7 @@ Mary	Myers	,	PEI Department of Environment, Energy & Forestry	,	Canada
 <a href="#membership" title="Membership">back to top</a>
 
 # N
-Scott	Nielsen	,	University of Alberta	,	USA
+Scott	Nielsen	,	University of Alberta	,	Canada
 
 Gary	Nielsen	,	Ontario Forest Gene Conservation Association	,	Canada
 
