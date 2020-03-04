@@ -92,6 +92,8 @@ Sarah	Dalrymple	,	Liverpool John Moores University	,	UK
 
 Rebecca	Dillon	,	Dept. Biodiversity, Conservation and Attractions, WA	,	Australia
 
+David	Draper,	Centro de Ecologia, Evolução e Alterações Ambientais (CE3C - Centre for Ecology, Evolution and Environmental Changes)	,	Portugal
+
 Matthew	Duveneck	,	Portland State University, Portland Oregon	,	USA
 
 <a href="#membership" title="Membership">back to top</a>
@@ -202,7 +204,7 @@ Palle	Madsen	,	University of Copenhagen	,	Denmark
 
 Janet	Marinelli	,	USA
 
-Isabelle	Marques	,	University of Lisbon, Portugal
+Isabel	Marques	,	University of Lisbon, Portugal
 
 Tara	Martin	,	University of South Queensland, University of British Columbia	,	Australia
 
@@ -213,8 +215,6 @@ Guy	Midgely	,	Stellenbosch University	,	South Africa
 Steph	Miles	,	Millenium Seed Bank	,	UK
 
 Leonie	Monks	,	Dept. Biodiversity, Conservation and Attractions, WA	,	Australia
-
-David	Munt	,	Centro de Ecologia, Evolução e Alterações Ambientais (CE3C - Centre for Ecology, Evolution and Environmental Changes)	,	Portugal
 
 Mary	Myers	,	PEI Department of Environment, Energy & Forestry	,	Canada
 
