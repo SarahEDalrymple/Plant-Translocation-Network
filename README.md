@@ -177,6 +177,8 @@ Manfred	Jusaitis	,	Botanic Gardens of Adelaide	,	Australia
 # K
 Kapua	Kawelo	,	Oahu Army Natural Resource Program	,	USA
 
+Ellie Kent, Back On Our Map, University of Cumbria, UK
+
 Christopher	Kettle	,	Alliance of Bioversity International and CIAT, Rome  & ETH Zurich, Switzerland
 
 Jodie	Krakowski	,	Alberta Sustainable Resource Development, Tree Improvement & Seed Centre	,	Canada
@@ -189,6 +191,8 @@ J. Marty	Kranabetter	,	BC MFLNRO Research Branch	,	Canada
 Emilio	Laguna	,	CIEF-Wildlife Service, Generalitat Valenciana	,	Spain
 
 Roberto	Lindig-Cisneros	,	Universidad Nacional Autónoma de México	,	Mexico
+
+Steven Lipscombe, Back On Our Map, University of Cumbria, UK
 
 Janet	Lister	,	National Trust	,	UK
 
