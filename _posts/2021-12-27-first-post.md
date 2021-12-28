@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HappyNewYear
+title: Happy New Year
 ---
 
 Good riddance 2021.
