@@ -4,3 +4,17 @@ twitter_username: SarahEDalrymple
 author: Sarah E. Dalrymple
 year: 2021
 search: true
+
+# BUILD SETTINGS [usually leave as is]
+#
+# Defaults to simplify front matter,
+# all files in the "pages" folder will be output at root of site
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      layout: page
+      permalink: /:basename:output_ext
+
+# ignore stuff
+exclude: [docs/, Rakefile, README.md, LICENSE]
