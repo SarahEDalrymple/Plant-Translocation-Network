@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+nav: About
+nav_order: 2
 ---
 
 An international network of researchers, practitioners and policymakers using plant translocations to address biodiversity loss.
