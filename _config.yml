@@ -2,3 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 title: [Plant Translocation Network]
 twitter_username: SarahEDalrymple
 author: Sarah E. Dalrymple
+
+theme: jekyll-theme-slate
