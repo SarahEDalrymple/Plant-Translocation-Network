@@ -3,8 +3,6 @@ layout: page
 title: Membership
 ---
 
-# Membership
-
 We are always welcoming new members, please contact me ([Sarah Dalrymple](s.e.dalrymple@ljmu.ac.uk)) if you'd like to be added to our contact list.
 
 Search by surname:
