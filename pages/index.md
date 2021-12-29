@@ -19,6 +19,10 @@ Updates to come...
 
 <img src="SF_image.png" class="img-fluid">
 
+
+**Posts**
+
+June 2021: [Special Focus announcement]({% post_url 2021-06-30-SFannouncement %})
 <ul>
   {% for post in posts %}
     <li>
