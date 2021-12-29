@@ -11,55 +11,55 @@ Search by surname:
 <a href="#a" title="A">A</a> <a href="#b" title="B">B</a> <a href="#c" title="C">C</a> <a href="#d" title="D">D</a> <a href="#e" title="E">E</a> <a href="#f" title="F">F</a> <a href="#g" title="G">G</a> <a href="#h" title="H">H</a> <a href="#i" title="I">I</a> <a href="#j" title="J">J</a> <a href="#k" title="K">K</a> <a href="#l" title="L">L</a> <a href="#m" title="M">M</a> <a href="#n" title="N">N</a> <a href="#o" title="O">O</a> <a href="#p" title="P">P</a> Q R <a href="#s" title="S">S</a> <a href="#t" title="T">T</a> U V <a href="#w" title="W">W</a> <a href="#x" title="X">X</a> <a href="#z" title="Z">Z</a>
 
 # A
-Thomas	Abeli	,	University of Roma Tre	,	Italy
+Thomas	Abeli,	University of Roma Tre	,	Italy
 
-Sally	Aitken	,	UBC Dept. of Forestry	,	Canada
+Sally	Aitken,	UBC Dept. of Forestry	,	Canada
 
-Resit	Akçakaya	,	Stony Brook University	,	USA
+Resit	Akçakaya,	Stony Brook University	,	USA
 
 Andrew Almas, University of British Columbia	,	Canada
 
-Aitor	Ameztegui	,	 University of Lleida, Spain
+Aitor	Ameztegui,	 University of Lleida, Spain
 
 <a href="#membership" title="Membership">back to top</a>
 
 # B
-Connie	Barlow	,	Torreya Guardians	,	USA
+Connie	Barlow,	Torreya Guardians	,	USA
 
-Sarah	Barrett	,	Dept of Biodiversity Conservation and Attractions Western Australia	,	Australia
+Sarah	Barrett,	Dept of Biodiversity Conservation and Attractions Western Australia	,	Australia
 
-Tannis	Beardmore	,	Natural Resources Canada	,	Canada
+Tannis	Beardmore,	Natural Resources Canada	,	Canada
 
-Timothy	Bell	,	Chicago State University	,	USA
+Timothy	Bell,	Chicago State University	,	USA
 
-Joe	Bellis	,	Liverpool John Moores University	,	UK
+Joe	Bellis,	Liverpool John Moores University	,	UK
 
-Sarah	Bird	,	Chester Zoo	,	UK
+Sarah	Bird,	Chester Zoo	,	UK
 
-Laura	Boisvert-Marsh	,	Natural Resources Canada	,	Canada
+Laura	Boisvert-Marsh,	Natural Resources Canada	,	Canada
 
-David	Boshier	,	University of Oxford	,	UK
+David	Boshier,	University of Oxford	,	UK
 
-David	Bourke	,	Liverpool John Moores University	,	UK
+David	Bourke,	Liverpool John Moores University	,	UK
 
-Marlin	Bowles	,	Morton Arboretum	,	USA
+Marlin	Bowles,	Morton Arboretum	,	USA
 
-Barb	Boysen 	,	Forest Gene Conservation Association	,	Canada
+Barb	Boysen,	Forest Gene Conservation Association	,	Canada
 
-Hannah	Branwood	,	Liverpool John Moores University	,	UK
+Hannah	Branwood,	Liverpool John Moores University	,	UK
 
-Alan	Brown	,	Clyde Muirshiel Regional Park	,	UK
+Alan	Brown,	Clyde Muirshiel Regional Park	,	UK
 
 <a href="#membership" title="Membership">back to top</a>
 
 # C
-Debojyoti	Chakraborty	,	Department of Forest Growth and Silviculture Austrian Research Centre for Forests (BFW)	,	Austria
+Debojyoti	Chakraborty	,	Department of Forest Growth and Silviculture Austrian Research Centre for Forests (BFW),	Austria
 
-Ted	Chapman	,	Millenium Seed Bank	,	UK
+Ted	Chapman,	Millenium Seed Bank	,	UK
 
-Anne	Cochrane	,	Dept. Biodiversity, Conservation and Attractions, WA	,	Australia
+Anne	Cochrane,	Dept. Biodiversity, Conservation and Attractions, WA	,	Australia
 
-Donatella	Cogoni	,	Università degli Studi di Cagliari	,	Italy
+Donatella	Cogoni,	Università degli Studi di Cagliari	,	Italy
 
 Bruno Colas , AgroParisTech, Université Paris Saclay, France
 

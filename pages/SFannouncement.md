@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Special Focus on Plant Translocations and Climate Change
+nav: Resources
+nav_order: 4
 ---
 
 ## Special focus on plant translocations available now!
