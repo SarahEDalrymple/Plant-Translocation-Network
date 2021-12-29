@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 {% include jumbotron.html title=site.title  %}
