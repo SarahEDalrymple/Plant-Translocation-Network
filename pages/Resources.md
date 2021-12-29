@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Special Focus on Plant Translocations and Climate Change
+title: Resources
 nav: Resources
 nav_order: 4
 ---
 
-## Special focus on plant translocations available now!
+## Special focus on plant translocations and climate change available now!
 
 *Journal of Ecology* and *Ecological Solutions and Evidence* have recently published a series of papers including work from members of the Plant Translocation Network.
 You can access the whole collection [here](https://besjournals.onlinelibrary.wiley.com/hub/plant_translocations_and_climate_change) or use the links below to go direct to a particular paper.
+
+<img src="SF_image.png" width="400" height="auto">
 
 Editorial:
 
