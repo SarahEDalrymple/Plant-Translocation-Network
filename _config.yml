@@ -4,7 +4,7 @@ twitter_username: SarahEDalrymple
 author: Sarah E. Dalrymple
 year: 2021
 search: true
-
+permalink: /:basename:output_ext
 ##########
 # URL VARIABLES [optional!]
 #
@@ -24,7 +24,6 @@ source-code: https://github.com/SarahEDalrymple/Plant-Translocation-Network
 # Defaults to simplify front matter,
 # all files in the "pages" folder will be output at root of site
 defaults:
-  permalink: /:basename:output_ext
   - scope:
       path: "pages"
     values:
