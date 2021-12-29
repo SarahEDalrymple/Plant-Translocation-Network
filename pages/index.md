@@ -10,4 +10,4 @@ For information on the Plant Translocation Network including our objectives and 
 
 Updates to come...
 
-![](SF_image.png)
+<img src="SF_image.png" class="img-fluid">
