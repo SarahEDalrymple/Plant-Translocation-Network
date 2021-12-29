@@ -1,3 +1,7 @@
+---
+permalink: /:basename:output_ext
+---
+
 <!doctype html>
 <html lang="en" class="h-100">
     <head>
@@ -13,10 +17,3 @@
         {% include template/foot.html %}
     </body>
 </html>
-
-defaults:
-  - scope:
-      path: "pages"
-    values:
-      layout: page
-      permalink: /:basename:output_ext
