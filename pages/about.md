@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 nav: About
 nav_order: 2
 ---
