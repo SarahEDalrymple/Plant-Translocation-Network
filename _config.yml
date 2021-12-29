@@ -3,8 +3,8 @@ description: An international network of researchers, practitioners and policyma
 twitter_username: SarahEDalrymple
 author: Sarah E. Dalrymple
 year: 2021
-search: true
-permalink: /:basename:output_ext
+search: false
+
 ##########
 # URL VARIABLES [optional!]
 #
