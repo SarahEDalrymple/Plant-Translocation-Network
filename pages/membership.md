@@ -1,5 +1,7 @@
 ---
 layout: page
+nav: Members
+nav_order: 3
 title: Membership
 ---
 
