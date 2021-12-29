@@ -5,6 +5,20 @@ author: Sarah E. Dalrymple
 year: 2021
 search: true
 
+##########
+# URL VARIABLES [optional!]
+#
+# Optional if using GitHub Pages! If building manually, these must be set correctly.
+#
+# use url for the domain, e.g. https://thecdil.github.io
+# on gh-pages follow the pattern: https://username.github.io
+url: https://sarahedalrymple.github.io
+# use baseurl to add subsection of the domain, e.g. /timelinejs-template
+# on gh-pages this is a / followed by the name of the repository
+# baseurl is your github repository's name prefixed with a /
+baseurl: /Plant-Translocation-Network
+# location of code, the full url to your github repository
+source-code: https://github.com/SarahEDalrymple/Plant-Translocation-Network
 # BUILD SETTINGS [usually leave as is]
 #
 # Defaults to simplify front matter,
